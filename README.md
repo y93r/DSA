@@ -8,3 +8,7 @@ Neste repositório será colocado os scripts criados nas aulas de Fundamentos de
 **REGEX com Chat-GPT**
 - Extraindo informações de uma música com REGEX;
 - Auxílio do Chat GPT para criar o script
+
+**Jogo_Forca**
+- Criação de um jogo de forca utilizando a biblioteca random para trazer as palavras aleatoriamente;
+- Fixação do conteúdo apresentado: try/except, funções, loop (while e for) e toda lógica
