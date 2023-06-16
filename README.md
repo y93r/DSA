@@ -12,3 +12,6 @@ Neste repositório será colocado os scripts criados nas aulas de Fundamentos de
 **Jogo_Forca**
 - Criação de um jogo de forca utilizando a biblioteca random para trazer as palavras aleatoriamente;
 - Fixação do conteúdo apresentado: try/except, funções, loop (while e for) e toda lógica
+
+**Jogo_da_forca_poo**
+- Criação de um jogo de forca utilizando programação orientada a objeto
