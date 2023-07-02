@@ -1,5 +1,5 @@
 # DSA
-Neste repositório será colocado os scripts criados nas aulas de Fundamentos de Linguagem Python Para Análise de Dados e Data Science da DSA.
+Neste repositório será colocado os scripts criados nas aulas de [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 
 **Calculadora em Python com Biblioteca Math**
 - Criação de uma calculadora para fazer as 4 operações básicas de matemática;
