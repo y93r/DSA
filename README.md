@@ -1,6 +1,8 @@
 # DSA
 Neste repositório será colocado os scripts criados nas aulas de [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 
+## Nível Básico
+
 **Calculadora em Python com Biblioteca Math**
 - Criação de uma calculadora para fazer as 4 operações básicas de matemática;
 - Com a biblioteca math podemos utilizar mais 2 operações, potência e raiz quadrada.
@@ -20,3 +22,5 @@ Neste repositório será colocado os scripts criados nas aulas de [Fundamentos d
 - Utilização da biblioteca pandas para fazer análise exploratória de dados;
 - Bibliotecas matplotlib e seaborn para criação de gráficos;
 - Biblioteca numpy para para aplicar uma condição lógica em uma coluna do DataFrame e atribuir valores com base nessa condição e para calcular algumas estatísticas agregadas(soma, média e mediana)
+------
+## Nível Intermediário
