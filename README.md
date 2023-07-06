@@ -24,3 +24,8 @@ Neste repositório será colocado os scripts criados nas aulas de [Fundamentos d
 - Biblioteca numpy para para aplicar uma condição lógica em uma coluna do DataFrame e atribuir valores com base nessa condição e para calcular algumas estatísticas agregadas(soma, média e mediana)
 ------
 ## Nível Intermediário
+**Análise Estatística com Statsmodels**
+- Biblioteca pandas para análisee xploratória de dados;
+- Bibliotecas matplotlib e seaborn para criação de gráficos;
+- Biblioteca statsmodel para regressão linear;
+- Conclusão de que que existe uma correlação entre as variavéis, mas não é suficente para explicar completamente a variação do valor
