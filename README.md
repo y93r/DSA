@@ -9,23 +9,30 @@ Neste repositório será colocado os scripts criados nas aulas de [Fundamentos d
 
 **REGEX com Chat-GPT**
 - Extraindo informações de uma música com REGEX;
-- Auxílio do Chat GPT para criar o script
+- Auxílio do Chat GPT para criar o script.
 
 **Jogo_Forca**
 - Criação de um jogo de forca utilizando a biblioteca random para trazer as palavras aleatoriamente;
-- Fixação do conteúdo apresentado: try/except, funções, loop (while e for) e toda lógica
+- Fixação do conteúdo apresentado: try/except, funções, loop (while e for) e toda lógica.
 
 **Jogo_da_forca_poo**
-- Criação de um jogo de forca utilizando programação orientada a objeto
+- Criação de um jogo de forca utilizando programação orientada a objeto.
 
 **Projeto 2 - Análise de Dados**
 - Utilização da biblioteca pandas para fazer análise exploratória de dados;
 - Bibliotecas matplotlib e seaborn para criação de gráficos;
-- Biblioteca numpy para para aplicar uma condição lógica em uma coluna do DataFrame e atribuir valores com base nessa condição e para calcular algumas estatísticas agregadas(soma, média e mediana)
+- Biblioteca numpy para para aplicar uma condição lógica em uma coluna do DataFrame e atribuir valores com base nessa condição e para calcular algumas estatísticas agregadas(soma, média e mediana).
 ------
 ## Nível Intermediário
 **Análise Estatística com Statsmodels**
-- Biblioteca pandas para análisee xploratória de dados;
+- Biblioteca pandas para análisee exploratória de dados;
 - Bibliotecas matplotlib e seaborn para criação de gráficos;
 - Biblioteca statsmodel para regressão linear;
-- Conclusão de que que existe uma correlação entre as variavéis, mas não é suficente para explicar completamente a variação do valor
+- Conclusão de que que existe uma correlação entre as variavéis, mas não é suficente para explicar completamente a variação do valor.
+
+**Machine Learning com Scikit-Learn**
+- Biblioteca pandas para preparação, limpeza e exploração dos dados;
+- Bibliotecas matplotlib e seaborn para criação de gráficos e compreensão das variáveis;
+- Biblioteca Scikit-Learn para Modelagem Preditiva e validação do modelo;
+- Deploy do Modelo, etapa que o modelo seja colocado em uso prático;
+- Salvar esses resultados em um arquivo csv.
