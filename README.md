@@ -25,7 +25,7 @@ Neste repositório será colocado os scripts criados nas aulas de [Fundamentos d
 ------
 ## Nível Intermediário
 **Análise Estatística com Statsmodels**
-- Biblioteca pandas para análisee exploratória de dados;
+- Biblioteca pandas para análise exploratória de dados;
 - Bibliotecas matplotlib e seaborn para criação de gráficos;
 - Biblioteca statsmodel para regressão linear;
 - Conclusão de que que existe uma correlação entre as variavéis, mas não é suficente para explicar completamente a variação do valor.
