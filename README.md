@@ -36,3 +36,13 @@ Neste repositório será colocado os scripts criados nas aulas de [Fundamentos d
 - Biblioteca Scikit-Learn para Modelagem Preditiva e validação do modelo;
 - Deploy do Modelo, etapa que o modelo seja colocado em uso prático;
 - Salvar esses resultados em um arquivo csv.
+
+  **Deep Learning com TensorFlow**
+  - Concceitos básicos para construir um modelo de IA capaz de classificar imagens de 10 categorias;
+  - Carregamento das imagens usando o dataset CIFAR-10;
+  - Pré-Processamento e Visualização das Imagens normalizando maliza os valores dos pixels para que os dados fiquem na mesma escala;
+  - Criar um modelo com sequência de camadas (convolução e max pooling);
+  - Adicionar camadas de classificação;
+  - Compilar o modelo;
+  - Avaliar a acurácia;
+  - Fazer o deploy do modelo
